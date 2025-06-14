@@ -7,3 +7,4 @@
 - **2025-06-06** — improve balancing action plan for multi-resource deficit
 - **2025-06-09** — fix outage resource role assignment validation
 - **2025-06-12** — fix event sequence validation for concurrent aggregates
+- **2025-06-14** — add forecast revision reason validation
