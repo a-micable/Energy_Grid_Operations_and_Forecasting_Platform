@@ -9,3 +9,4 @@
 - **2025-06-12** — fix event sequence validation for concurrent aggregates
 - **2025-06-14** — add forecast revision reason validation
 - **2025-06-17** — fix battery state machine transition for maintenance mode
+- **2025-06-20** — add connection pool pre-ping for database resilience
