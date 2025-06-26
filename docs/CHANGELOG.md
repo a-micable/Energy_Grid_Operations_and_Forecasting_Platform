@@ -11,3 +11,4 @@
 - **2025-06-17** — fix battery state machine transition for maintenance mode
 - **2025-06-20** — add connection pool pre-ping for database resilience
 - **2025-06-23** — Expand GridMind platform with analytics and integrations
+- **2025-06-26** — fix optimization run timeout handling
