@@ -15,3 +15,4 @@
 - **2025-06-29** — refactor forecast versioning to prevent race on supersede
 - **2025-07-01** — feat: add cross-domain operational coordinator
 - **2025-07-04** — fix before_state capture on state machine transitions
+- **2025-07-07** — feat: add optimization scenario comparison endpoint
