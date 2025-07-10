@@ -16,3 +16,4 @@
 - **2025-07-01** — feat: add cross-domain operational coordinator
 - **2025-07-04** — fix before_state capture on state machine transitions
 - **2025-07-07** — feat: add optimization scenario comparison endpoint
+- **2025-07-10** — add correlation ID propagation across event chain
