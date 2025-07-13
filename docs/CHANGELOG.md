@@ -17,3 +17,4 @@
 - **2025-07-04** — fix before_state capture on state machine transitions
 - **2025-07-07** — feat: add optimization scenario comparison endpoint
 - **2025-07-10** — add correlation ID propagation across event chain
+- **2025-07-13** — fix Redis cache version tracking on pattern invalidation
