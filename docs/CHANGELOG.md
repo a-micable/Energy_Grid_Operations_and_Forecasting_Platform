@@ -19,3 +19,4 @@
 - **2025-07-10** — add correlation ID propagation across event chain
 - **2025-07-13** — fix Redis cache version tracking on pattern invalidation
 - **2025-07-15** — feat: add SCADA adapter integration layer
+- **2025-07-18** — improve cost optimization for mixed renewable portfolio
