@@ -21,3 +21,4 @@
 - **2025-07-15** — feat: add SCADA adapter integration layer
 - **2025-07-18** — improve cost optimization for mixed renewable portfolio
 - **2025-07-21** — add load shed action audit trail recording
+- **2025-07-24** — add priority dispatch fallback when LP infeasible
