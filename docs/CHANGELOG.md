@@ -22,3 +22,4 @@
 - **2025-07-18** — improve cost optimization for mixed renewable portfolio
 - **2025-07-21** — add load shed action audit trail recording
 - **2025-07-24** — add priority dispatch fallback when LP infeasible
+- **2025-07-27** — feat: implement battery arbitrage schedule optimization
