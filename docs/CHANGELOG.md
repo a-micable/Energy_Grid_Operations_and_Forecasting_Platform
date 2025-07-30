@@ -23,3 +23,4 @@
 - **2025-07-21** — add load shed action audit trail recording
 - **2025-07-24** — add priority dispatch fallback when LP infeasible
 - **2025-07-27** — feat: implement battery arbitrage schedule optimization
+- **2025-07-30** — add structured logging context for correlation IDs
