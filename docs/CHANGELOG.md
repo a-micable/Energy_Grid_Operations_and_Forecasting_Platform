@@ -25,3 +25,4 @@
 - **2025-07-27** — feat: implement battery arbitrage schedule optimization
 - **2025-07-30** — add structured logging context for correlation IDs
 - **2025-08-01** — fix usable capacity adjustment for degradation
+- **2025-08-04** — add renewable maximization stage constraint validation
