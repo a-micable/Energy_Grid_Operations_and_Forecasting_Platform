@@ -27,3 +27,4 @@
 - **2025-08-01** — fix usable capacity adjustment for degradation
 - **2025-08-04** — add renewable maximization stage constraint validation
 - **2025-08-07** — add confidence interval recalculation on forecast revision
+- **2025-08-10** — feat: add alert manager with cooldown policies
