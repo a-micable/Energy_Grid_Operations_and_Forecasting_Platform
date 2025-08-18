@@ -30,3 +30,4 @@
 - **2025-08-10** — feat: add alert manager with cooldown policies
 - **2025-08-13** — fix battery state machine transition for maintenance mode
 - **2025-08-15** — fix forecast point timestamp alignment for DST transitions
+- **2025-08-18** — correct charge/discharge power limit enforcement
