@@ -32,3 +32,4 @@
 - **2025-08-15** — fix forecast point timestamp alignment for DST transitions
 - **2025-08-18** — correct charge/discharge power limit enforcement
 - **2025-08-21** — improve event handler retry backoff strategy
+- **2025-08-24** — add model version tracking to forecast run metadata
