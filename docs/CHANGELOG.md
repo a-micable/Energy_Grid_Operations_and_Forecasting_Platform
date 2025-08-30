@@ -34,3 +34,4 @@
 - **2025-08-21** — improve event handler retry backoff strategy
 - **2025-08-24** — add model version tracking to forecast run metadata
 - **2025-08-27** — improve cycle count increment on partial cycles
+- **2025-08-30** — add degradation model stress factor for deep discharge
