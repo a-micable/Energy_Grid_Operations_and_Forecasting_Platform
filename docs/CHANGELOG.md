@@ -38,3 +38,4 @@
 - **2025-09-01** — improve audit timeline diff for nested state changes
 - **2025-09-04** — improve repository query performance for audit timeline
 - **2025-09-07** — fix outage dependency cycle detection for deep graphs
+- **2025-09-10** — add frequency deadband check before intervention
