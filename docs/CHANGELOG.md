@@ -39,3 +39,4 @@
 - **2025-09-04** — improve repository query performance for audit timeline
 - **2025-09-07** — fix outage dependency cycle detection for deep graphs
 - **2025-09-10** — add frequency deadband check before intervention
+- **2025-09-13** — add hard dependency enforcement in topological sort
