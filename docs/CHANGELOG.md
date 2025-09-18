@@ -41,3 +41,4 @@
 - **2025-09-10** — add frequency deadband check before intervention
 - **2025-09-13** — add hard dependency enforcement in topological sort
 - **2025-09-15** — fix event sequence validation for concurrent aggregates
+- **2025-09-18** — improve reconstruction accuracy for deleted entities
