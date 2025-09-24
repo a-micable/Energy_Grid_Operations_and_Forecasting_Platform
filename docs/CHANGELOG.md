@@ -43,3 +43,4 @@
 - **2025-09-15** — fix event sequence validation for concurrent aggregates
 - **2025-09-18** — improve reconstruction accuracy for deleted entities
 - **2025-09-21** — add scenario ranking tiebreaker for equal objectives
+- **2025-09-24** — fix forecast cache invalidation on version supersede
