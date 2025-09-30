@@ -45,3 +45,4 @@
 - **2025-09-21** — add scenario ranking tiebreaker for equal objectives
 - **2025-09-24** — fix forecast cache invalidation on version supersede
 - **2025-09-27** — fix outage resource role assignment validation
+- **2025-09-30** — feat: add compliance report PDF export preparation
