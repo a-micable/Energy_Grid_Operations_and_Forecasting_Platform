@@ -48,3 +48,4 @@
 - **2025-09-30** — feat: add compliance report PDF export preparation
 - **2025-10-02** — fix forecast point timestamp alignment for DST transitions
 - **2025-10-05** — correct reserve margin calculation for partial capacity
+- **2025-10-08** — fix reserve capacity query for overlapping validity windows
