@@ -51,3 +51,4 @@
 - **2025-10-08** — fix reserve capacity query for overlapping validity windows
 - **2025-10-11** — fix migration 008 duplicate column definitions
 - **2025-10-14** — add backtest metrics export to forecast run response
+- **2025-10-16** — fix solver status mapping for partial solutions
