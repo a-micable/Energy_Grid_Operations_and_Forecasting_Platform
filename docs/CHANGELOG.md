@@ -52,3 +52,4 @@
 - **2025-10-11** — fix migration 008 duplicate column definitions
 - **2025-10-14** — add backtest metrics export to forecast run response
 - **2025-10-16** — fix solver status mapping for partial solutions
+- **2025-10-19** — fix historical reconstruction state chain integrity
