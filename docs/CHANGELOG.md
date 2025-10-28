@@ -55,3 +55,4 @@
 - **2025-10-19** — fix historical reconstruction state chain integrity
 - **2025-10-22** — fix reserve capacity query for overlapping validity windows
 - **2025-10-25** — correct scenario parameter merge order
+- **2025-10-28** — feat: implement ETL pipeline for sensor ingestion
