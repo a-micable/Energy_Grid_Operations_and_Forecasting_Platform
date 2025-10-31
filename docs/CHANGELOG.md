@@ -56,3 +56,4 @@
 - **2025-10-22** — fix reserve capacity query for overlapping validity windows
 - **2025-10-25** — correct scenario parameter merge order
 - **2025-10-28** — feat: implement ETL pipeline for sensor ingestion
+- **2025-10-31** — feat: add compliance report PDF export preparation
