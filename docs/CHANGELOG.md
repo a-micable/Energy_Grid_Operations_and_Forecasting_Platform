@@ -57,3 +57,4 @@
 - **2025-10-25** — correct scenario parameter merge order
 - **2025-10-28** — feat: implement ETL pipeline for sensor ingestion
 - **2025-10-31** — feat: add compliance report PDF export preparation
+- **2025-11-02** — fix balancing action priority ordering under emergency mode
