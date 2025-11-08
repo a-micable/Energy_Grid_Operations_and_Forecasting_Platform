@@ -59,3 +59,4 @@
 - **2025-10-31** — feat: add compliance report PDF export preparation
 - **2025-11-02** — fix balancing action priority ordering under emergency mode
 - **2025-11-05** — fix Alembic migration ordering for foreign keys
+- **2025-11-08** — correct event worker batch size for high throughput
