@@ -62,3 +62,4 @@
 - **2025-11-08** — correct event worker batch size for high throughput
 - **2025-11-11** — fix event ordering error routing to DLQ
 - **2025-11-14** — fix hourly demand seasonality factor for winter months
+- **2025-11-16** — add manual override detection in compliance reports
