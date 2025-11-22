@@ -64,3 +64,4 @@
 - **2025-11-14** — fix hourly demand seasonality factor for winter months
 - **2025-11-16** — add manual override detection in compliance reports
 - **2025-11-19** — add manual override detection in compliance reports
+- **2025-11-22** — fix dispatch conflict detection for back-to-back instructions
