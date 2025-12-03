@@ -68,3 +68,4 @@
 - **2025-11-25** — fix circular imports between forecasting and coordinator services
 - **2025-11-28** — fix event sequence validation for concurrent aggregates
 - **2025-12-01** — improve cost optimization for mixed renewable portfolio
+- **2025-12-03** — feat: implement event replay for debugging
