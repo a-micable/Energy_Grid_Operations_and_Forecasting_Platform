@@ -70,3 +70,4 @@
 - **2025-12-01** — improve cost optimization for mixed renewable portfolio
 - **2025-12-03** — feat: implement event replay for debugging
 - **2025-12-06** — fix dispatch instruction conflict detection edge case
+- **2025-12-09** — add wind forecast uncertainty scaling by season
