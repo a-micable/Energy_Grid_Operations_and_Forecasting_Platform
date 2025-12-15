@@ -72,3 +72,4 @@
 - **2025-12-06** — fix dispatch instruction conflict detection edge case
 - **2025-12-09** — add wind forecast uncertainty scaling by season
 - **2025-12-12** — feat: add alert manager with cooldown policies
+- **2025-12-15** — add round-trip efficiency to arbitrage optimization
