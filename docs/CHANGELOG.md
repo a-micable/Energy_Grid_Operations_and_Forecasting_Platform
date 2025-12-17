@@ -73,3 +73,4 @@
 - **2025-12-09** — add wind forecast uncertainty scaling by season
 - **2025-12-12** — feat: add alert manager with cooldown policies
 - **2025-12-15** — add round-trip efficiency to arbitrage optimization
+- **2025-12-17** — correct charge/discharge power limit enforcement
