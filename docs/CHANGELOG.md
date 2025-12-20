@@ -74,3 +74,4 @@
 - **2025-12-12** — feat: add alert manager with cooldown policies
 - **2025-12-15** — add round-trip efficiency to arbitrage optimization
 - **2025-12-17** — correct charge/discharge power limit enforcement
+- **2025-12-20** — fix outage status transition guard for emergency type
