@@ -76,3 +76,4 @@
 - **2025-12-17** — correct charge/discharge power limit enforcement
 - **2025-12-20** — fix outage status transition guard for emergency type
 - **2025-12-23** — add model version tracking to forecast run metadata
+- **2025-12-26** — correct marginal cost calculation for partial output
