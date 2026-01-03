@@ -79,3 +79,4 @@
 - **2025-12-26** — correct marginal cost calculation for partial output
 - **2025-12-29** — feat: add operational playbooks registry
 - **2026-01-01** — feat: support custom emission constraints per zone
+- **2026-01-03** — add compliance report finding severity classification
