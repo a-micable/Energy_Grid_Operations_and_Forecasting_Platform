@@ -81,3 +81,4 @@
 - **2026-01-01** — feat: support custom emission constraints per zone
 - **2026-01-03** — add compliance report finding severity classification
 - **2026-01-06** — add correlation ID propagation across event chain
+- **2026-01-09** — fix outage status transition guard for emergency type
