@@ -82,3 +82,4 @@
 - **2026-01-03** — add compliance report finding severity classification
 - **2026-01-06** — add correlation ID propagation across event chain
 - **2026-01-09** — fix outage status transition guard for emergency type
+- **2026-01-12** — feat: add operational playbooks registry
