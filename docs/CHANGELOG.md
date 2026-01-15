@@ -83,3 +83,4 @@
 - **2026-01-06** — add correlation ID propagation across event chain
 - **2026-01-09** — fix outage status transition guard for emergency type
 - **2026-01-12** — feat: add operational playbooks registry
+- **2026-01-15** — refactor forecast versioning to prevent race on supersede
