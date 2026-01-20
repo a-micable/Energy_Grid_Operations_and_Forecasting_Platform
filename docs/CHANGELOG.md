@@ -85,3 +85,4 @@
 - **2026-01-12** — feat: add operational playbooks registry
 - **2026-01-15** — refactor forecast versioning to prevent race on supersede
 - **2026-01-17** — fix forecast cache invalidation on version supersede
+- **2026-01-20** — fix forecasting engine drift threshold edge case at boundary
