@@ -87,3 +87,4 @@
 - **2026-01-17** — fix forecast cache invalidation on version supersede
 - **2026-01-20** — fix forecasting engine drift threshold edge case at boundary
 - **2026-01-23** — fix constraint solver numerical precision issues
+- **2026-01-26** — fix hourly demand seasonality factor for winter months
