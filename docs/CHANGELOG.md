@@ -88,3 +88,4 @@
 - **2026-01-20** — fix forecasting engine drift threshold edge case at boundary
 - **2026-01-23** — fix constraint solver numerical precision issues
 - **2026-01-26** — fix hourly demand seasonality factor for winter months
+- **2026-01-29** — fix dispatch conflict detection for back-to-back instructions
