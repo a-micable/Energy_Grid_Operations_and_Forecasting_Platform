@@ -89,3 +89,4 @@
 - **2026-01-23** — fix constraint solver numerical precision issues
 - **2026-01-26** — fix hourly demand seasonality factor for winter months
 - **2026-01-29** — fix dispatch conflict detection for back-to-back instructions
+- **2026-02-01** — improve dependency graph rebuild on outage cancellation
