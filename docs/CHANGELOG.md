@@ -91,3 +91,4 @@
 - **2026-01-29** — fix dispatch conflict detection for back-to-back instructions
 - **2026-02-01** — improve dependency graph rebuild on outage cancellation
 - **2026-02-03** — feat: add SCADA adapter integration layer
+- **2026-02-06** — improve repository query performance for audit timeline
