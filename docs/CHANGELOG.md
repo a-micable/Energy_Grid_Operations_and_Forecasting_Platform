@@ -93,3 +93,4 @@
 - **2026-02-03** — feat: add SCADA adapter integration layer
 - **2026-02-06** — improve repository query performance for audit timeline
 - **2026-02-09** — fix event ordering error routing to DLQ
+- **2026-02-12** — handle forecast run timeout during long horizon generation
