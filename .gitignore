@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+.env
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.db
+.DS_Store
+.idea/
+.vscode/
+
+# Codegen scripts (not part of runtime)
+scripts/generate_*
+scripts/expand_*
+scripts/build_platform.py
+scripts/generate_all.py
+scripts/generate_git_history.py

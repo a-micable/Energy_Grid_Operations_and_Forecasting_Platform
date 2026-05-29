@@ -415,7 +415,7 @@ def init_repository(*, fresh: bool = True, commit_count: int = 520) -> None:
             run_git(["remote", "set-url", "origin", remote_url], check=False)
 
     total = int(run_git(["rev-list", "--count", "HEAD"]).stdout.strip())
-    first = run_git(["log", "--reverse", "--format=%ai", "--max-count=1"]).stdout.strip()
+    first = run_git(["log", "--reverse", "--format=%ai"]).stdout.strip().splitlines()[0]
     last = run_git(["log", "-1", "--format=%ai"]).stdout.strip()
     print(f"Git init complete: {total} commits")
     print(f"Date range: {first} -> {last}")

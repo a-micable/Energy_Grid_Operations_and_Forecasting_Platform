@@ -1,0 +1,30 @@
+.git
+.gitignore
+.env
+.venv
+venv
+__pycache__
+*.py[cod]
+*.egg-info
+.eggs
+dist
+build
+.pytest_cache
+.mypy_cache
+.ruff_cache
+.coverage
+htmlcov
+*.db
+.DS_Store
+.idea
+.vscode
+
+# Codegen / scaffold scripts (not part of runtime)
+scripts/generate_*
+scripts/expand_*
+scripts/build_platform.py
+scripts/generate_all.py
+
+# Tests and local-only assets
+tests/
+docs/
